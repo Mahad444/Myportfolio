@@ -9,3 +9,10 @@ h1 {
     font-size: 2em;
     text-align: center;
 }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    h1 {
+        font-size: 3em;
+    }
+}
