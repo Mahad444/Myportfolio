@@ -431,12 +431,11 @@ footer p {
   text-align: center;
 }
 
-
-
-
-
-
-
+/* section css matching the html*/
+h3 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
 
 h3 .computing-history{
   color: orange;
